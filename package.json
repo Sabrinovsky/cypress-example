@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "ansi-escapes": "^1.4.0",
     "ansi-regex": "^2.1.1",
     "ansi-styles": "^2.2.1",
